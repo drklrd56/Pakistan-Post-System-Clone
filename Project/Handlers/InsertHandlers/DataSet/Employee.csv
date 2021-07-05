@@ -1,0 +1,56 @@
+﻿Empno,FName,LName,CNIC,Job,Salary,PhoneNumber,Street,City,Province,BranchID
+15000,Aaron,Alam,1740-94882455-1,Head,"50,000",0317-4094882,"House11,Street 35,Model Town",Rawalpindi,Punjab,24100
+15001,Abbott,Allee,7115-27614232-2,Clerk,"35,000",0345-5171152,"House14,Street 25,Iqbal Town",Rawalpindi,Punjab,24100
+15002,Abdulaziz,Alli,1685-76189279-5,Mail Carrier,"20,000",0376-1423221,"House34,Street 23,Satellite Town",Rawalpindi,Punjab,24100
+15003,Abuna,Ally,4312-33411387-4,Mail Processor,"25,000",0368-5761892,"House41,Street 12,Fazia Kaloni",Rawalpindi,Punjab,24100
+15004,Adalai,Aly,2779-31986502-8,Head,"50,000",0379-5431233,"House11,Street 35,G11/3",Islamabad,Punjab,24101
+15005,Adham,Aman,6024-86509006-1,Clerk,"35,000",0341-1387427,"House31,Street 12,G7/2",Islamabad,Punjab,24101
+15006,Ahmad,Amara,3893-44606618-4,Mail Carrier,"20,000",0379-3198650,NTC Head Quarters Sector F-5/1,Islamabad,Punjab,24101
+15007,Akbar,Amber,9637-88291359-8,Mail Processor,"25,000",0328-6024865,"Ist Flr. Ghulam Rasool Plaza, Fazal-E-Haq Road",Islamabad,Punjab,24101
+15008,Al-Ashab,Ameen,4076-36154209-7,Head,"50,000",0309-0061389,Sheikhupura Road Shahdara More,Lahore,Punjab,24102
+15009,Ali,Amen,3726-01657541-2,Clerk,"35,000",0334-4606618,National Hotel,Lahore,Punjab,24102
+15010,Amal,Amin,3599-81826603-8,Mail Processor,"25,000",0313-5984076,"41/A,Empress Road",Lahore,Punjab,24102
+15011,Amaros,Amini,0125-09478351-2,Head,"50,000",0336-1542097,Tehkal Bala Road,Peshawar,khyber Pakhtun khwa,42200
+15012,Amir,Amir,0164-06189841-4,Clerk,"35,000",0337-2601657,Cantt.,Peshawar,khyber Pakhtun khwa,42200
+15013,Ankhhaf,Amir,3988-08778383-7,Mail Carrier,"20,000",0354-1200146,Hayatabad,Peshawar,khyber Pakhtun khwa,42200
+15014,Ara,Amiri,1073-49651099-6,Mail Processor,"25,000",0307-1777733,26-Soekarno Square Opp.Karachi Mkt.Khyber Bazar,Peshawar,khyber Pakhtun khwa,42200
+15015,Arash,Ammar,8348-49925533-3,Head,"50,000",0359-9818266,"Near New Passport Office, Mansehra Road",Abbotabad,khyber Pakhtun khwa,42201
+15016,Arslan,Ansari,7438-08806819-8,Clerk,"35,000",0303-8012509,Tehkal Bala Road,Abbotabad,khyber Pakhtun khwa,42201
+15017,Asad,Anwar,9722-82890781-5,Mail Carrier,"20,000",0347-8351201,"Near Circle Town,West Road",Abbotabad,khyber Pakhtun khwa,42201
+15018,Azad,Arafat,8612-42586265-3,Mail Processor,"25,000",0364-0618984,"Near Peshawar Point,Lal Road",Abbotabad,khyber Pakhtun khwa,42201
+15019,Azeem,Arif,9246-18211976-2,Head,"50,000",0314-3988087,G.T.Road,Kohat,khyber Pakhtun khwa,42202
+15020,Badr,Arshad,9520-03918195-3,Clerk,"35,000",0378-3837107,Sarhad Medicos Opp.Shah Faisal Gate,Kohat,khyber Pakhtun khwa,42202
+15021,Basim,Ashraf,9698-25549125-0,Mail Processor,"25,000",0368-3484992,"Burbank, IL 60459",Kohat,khyber Pakhtun khwa,42202
+15022,Borak,Aslam,8393-96799769-3,Head,"50,000",0355-3337438,9569 Fifth Lane ,Karachi,Sindh,62300
+15023,Boutros,Asmar,5766-58254416-1,Clerk,"35,000",0308-8068198,"Loveland, OH 45140",Karachi,Sindh,62300
+15024,Coman,Assad,6335-53282536-1,Mail Carrier,"20,000",0397-2282890,603 Walnutwood Dr. ,Karachi,Sindh,62300
+15025,Fahd,Assad,8621-46291503-6,Mail Processor,"25,000",0378-1586124,"San Jose, CA 95127",Karachi,Sindh,62300
+15026,Faisal,Assaf,4929-34405963-4,Head,"50,000",0325-8626539,49 Clinton Street ,Hyderabad,Sindh,62301
+15027,Fakih,Atallah,2887-58125744-4,Clerk,"35,000",0324-6182119,"Schenectady, NY 12302",Hyderabad,Sindh,62301
+15028,Faraz,Attar,4429-30778730-3,Mail Carrier,"20,000",0376-2952003,544 E. Military Dr. ,Hyderabad,Sindh,62301
+15029,Fatin,Awan,8252-03729753-4,Mail Processor,"25,000",0391-8195325,"Davison, MI 48423",Hyderabad,Sindh,62301
+15030,Ferran,Aydin,3211-32535122-2,Head,"50,000",0325-8677229,8490 Rockcrest Ave. ,Jacobabad,Sindh,62302
+15031,Gamal,Ayoob,6407-03400531-0,Clerk,"35,000",0341-9698255,"Westport, CT 06880",Jacobabad,Sindh,62302
+15032,Ghazi,Ayub,2168-31484920-7,Mail Processor,"25,000",0339-6799769,"Kingsport, TN 37660",Jacobabad,Sindh,62302
+15033,Guadalupe,Azad,0607-05673849-2,Head,"50,000",0335-7665825,9954 El Dorado Lane ,Quetta,Balochistan,77150
+15034,Habib,Azam,6577-45798302-2,Clerk,"35,000",0344-1616335,"Clarksville, TN 37040",Quetta,Balochistan,77150
+15035,Haddad,Azer,3671-55402606-1,Mail Carrier,"20,000",0353-2825361,3 Division Street ,Quetta,Balochistan,77150
+15036,Hadi,Azimi,1173-00483012-9,Mail Processor,"25,000",0386-2146291,"Mobile, AL 36605",Quetta,Balochistan,77150
+15037,Hafez,Aziz,0388-57708930-7,Head,"50,000",0350-3649293,25 Broad Street ,Khuzdar,Balochistan,77151
+15038,Haidar,Azizi,4783-71008345-0,Clerk,"35,000",0344-0596342,"South Bend, IN 46614",Khuzdar,Balochistan,77151
+15039,Hakeem,Azzam,1456-20356667-6,Mail Carrier,"20,000",0388-7581257,34 Ivy Drive ,Khuzdar,Balochistan,77151
+15040,Hamal,Azzi,7719-16272765-1,Mail Processor,"25,000",0344-4442930,"Andover, MA 01810",Khuzdar,Balochistan,77151
+15041,Hamid,Azzi,3995-92653244-4,Head,"50,000",0377-8730382,67 Squaw Creek St. ,Turbat,Balochistan,77152
+15042,Hamza,Bacchus,2792-37315785-8,Clerk,"35,000",0352-0372975,"Desoto, TX 75115",Turbat,Balochistan,77152
+15043,Harun,Bacho,3089-13474636-5,Mail Processor,"25,000",0335-1222640,"Rolling Meadows, IL 60008",Turbat,Balochistan,77152
+15044,Hasan,Baddour,2810-31552217-4,Head,"50,000",0370-3400531,25 Bishop St. ,Mirpur,Azad Kashmir,67450
+15045,Hormoz,Badie,8236-30352807-2,Clerk,"35,000",0306-7500454,"Providence, RI 02904",Mirpur,Azad Kashmir,67450
+15046,Abia,Badour,2591-08507905-3,Mail Carrier,"20,000",0395-6482168,97 Tallwood Street ,Mirpur,Azad Kashmir,67450
+15047,Afra,Bagheri,4104-85925413-9,Mail Processor,"25,000",0331-4849207,"Glendale Heights, IL 60139",Mirpur,Azad Kashmir,67450
+15048,Ah lam,Bahri,5827-96177190-3,Head,"50,000",0306-0705673,7784 Church St. ,Kotli,Azad Kashmir,67451
+15049,Aisha,Baig,4175-33241290-8,Clerk,"35,000",0384-9265774,"Selden, NY 11784",Kotli,Azad Kashmir,67451
+15050,Akilah,Baksh,7456-80774313-6,Mail Carrier,"20,000",0357-9830223,88 Schoolhouse Court ,Kotli,Azad Kashmir,67451
+15051,Alima,Baluch,3019-04293148-2,Mail Processor,"25,000",0367-1554026,"Great Falls, MT 59404",Kotli,Azad Kashmir,67451
+15052,Aliye,Bangura,0559-32874814-3,Head,"50,000",0306-1117300,9037 E. Clay Street ,Bhimber,Azad Kashmir,67452
+15053,Alyssa,Barakat,5526-89295945-0,Clerk,,0348-3012903,"Wasilla, AK 99654",Bhimber,Azad Kashmir,67452
+15054,Amina,Basha,3370-95583783-7,Mail Processor,"25,000",0307-4783710,"New Windsor, NY 12553",Bhimber,Azad Kashmir,67452

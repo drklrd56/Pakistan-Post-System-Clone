@@ -1,0 +1,5 @@
+﻿ServiceID,Name,MaxWeight,Rate
+1,Regular,15,500
+2,Urgent,10,1000
+3,One Day,13,800
+4,Same Day,12,900

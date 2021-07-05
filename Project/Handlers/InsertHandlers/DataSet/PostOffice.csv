@@ -1,0 +1,16 @@
+﻿PostalCode,Name,OfficeType,Head,ContactNumber,Street,City,Province,GPO
+24100,PO.Urdu Bazar,GPO,15000,051-4416000,"Street1,Urdu Baraz",Rawalpindi,Punjab,NULL
+24101,PO.F7,DELIVERY,15001,051-4416001,F7 Markaz,Islamabad,Punjab,24100
+24102,PO.Anar kali,NON-DELIVERY,15002,042-4416002,AnarKali Baraz,Lahore,Punjab,24100
+62300,PO.Clifton,GPO,15003,021-4416003,Cliffon,Karachi,Sindh,NULL
+62301,PO.Diamond Market,DELIVERY,15004,022-4416004,Diamond Market,Hyderabad,Sindh,62300
+62302,PO.Abazai,NON-DELIVERY,15005,722-4416005,Abazai,Jacobabad,Sindh,62300
+77150,PO.Ziarat,GPO,15006,081-4416006,Ziarat,Quetta,Balochistan,NULL
+77151,PO.Banali Market,DELIVERY,15007,082-4416007,banali market,Khuzdar,Balochistan,77150
+77152,PO.Saddar,NON-DELIVERY,15008,083-4416008,saddar,Turbat,Balochistan,77150
+42200,PO.Kapra Market,GPO,15009,091-4416009,kapra market,Peshawar,khyber Pakhtun khwa,NULL
+42201,PO.Mall Road,DELIVERY,15010,992-4416010,mall road,Abbotabad,khyber Pakhtun khwa,42200
+42202,PO.Shahi Qila,NON-DELIVERY,15011,922-4416011,shahi qila,Kohat,khyber Pakhtun khwa,42200
+67450,PO.Mangla,GPO,15016,232-4416012,mangla,Mirpur,Azad Kashmir,NULL
+67451,PO.Azad Pathan Gul,DELIVERY,15018,233-4416013,azad pathan gul,Kotli,Azad Kashmir,67450
+67452,PO.Thorar,NON-DELIVERY,15020,234-4416014,thorar,Bhimber,Azad Kashmir,67450

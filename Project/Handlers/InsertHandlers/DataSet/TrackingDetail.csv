@@ -1,0 +1,76 @@
+﻿ParcelID,TrackingID,Empno,DateANDTime,Status,Location
+1400,1200,15009,3/30/2019 12:00,Collected at Post Office,Lahore
+1400,1201,15011,4/4/2019 13:20,Deprated the Post Office,Lahore
+1400,1202,15001,4/5/2019 13:43,Arrived at Post Office,Rawalpindi
+1400,1203,15003,4/5/2019 4:34,Sent Of Delivery,Rawalpindi
+1400,1204,15002,4/6/2019 0:00,Delivered,Rawalpindi
+1401,1205,15025,4/1/2019 12:00,Collected at Post Office,Karachi
+1401,1206,15027,4/4/2019 13:20,Deprated the Post Office,Karachi
+1401,1207,15017,4/5/2019 13:43,Arrived at Post Office,Abbotabad
+1401,1208,15019,4/5/2019 4:34,Sent Of Delivery,Abbotabad
+1401,1209,15018,4/6/2019 0:00,Delivered,Chital
+1402,1210,15009,4/5/2019 13:00,Collected at Post Office,Lahore
+1402,1211,15011,4/5/2019 14:00,Deprated the Post Office,Lahore
+1402,1212,15037,4/5/2019 0:00,Arrived at Post Office,Quetta
+1402,1213,15039,4/5/2019 0:20,Sent Of Delivery,Quetta
+1402,1214,15038,4/5/2019 1:00,Delivered,Quetta
+1403,1215,15001,4/6/2019 9:00,Collected at Post Office,Rawalpindi
+1403,1216,15003,4/6/2019 0:00,Deprated the Post Office,Rawalpindi
+1403,1217,15013,4/6/2019 6:00,Arrived at Post Office,Peshawar
+1403,1218,15015,4/7/2019 7:00,Sent Of Delivery,Peshawar
+1403,1219,15014,4/7/2019 8:40,Delivered,Peshawar
+1404,1220,15013,4/7/2019 13:00,Collected at Post Office,Peshawar
+1404,1221,15015,4/9/2019 15:00,Deprated the Post Office,Peshawar
+1404,1222,15005,4/11/2019 17:00,Arrived at Post Office,Islamabad
+1404,1223,15007,4/12/2019 19:00,Sent Of Delivery,Islamabad
+1404,1224,15004,4/12/2019 21:00,Delivered,Islamabad
+1405,1225,15009,4/14/2019 8:00,Collected at Post Office,Lahore
+1405,1226,15011,4/14/2019 10:00,Deprated the Post Office,Lahore
+1405,1227,15001,4/14/2019 18:00,Arrived at Post Office,Rawalpindi
+1405,1228,15003,4/14/2019 19:00,Sent Of Delivery,Rawalpindi
+1405,1229,15002,4/14/2019 21:00,Delivered,Islamabad
+1406,1230,15013,4/14/2019 0:00,Collected at Post Office,Peshawar
+1406,1231,15015,4/14/2019 2:00,Deprated the Post Office,Peshawar
+1406,1232,15001,4/14/2019 9:00,Arrived at Post Office,Rawalpindi
+1406,1233,15003,4/14/2019 10:00,Sent Of Delivery,Rawalpindi
+1406,1234,15002,4/14/2019 12:00,Delivered,Rawalpindi
+1407,1235,15029,4/15/2019 12:00,Collected at Post Office,Hyderabad
+1407,1236,15031,4/15/2019 13:00,Deprated the Post Office,Hyderabad
+1407,1237,15005,4/16/2019 9:00,Arrived at Post Office,Islamabad
+1407,1238,15007,4/16/2019 10:00,Sent Of Delivery,Islamabad
+1407,1239,15006,4/16/2019 11:43,Delivered,Islamabad
+1408,1240,15005,4/19/2019 0:00,Collected at Post Office,Islamabad
+1408,1241,15007,4/19/2019 2:00,Deprated the Post Office,Islamabad
+1408,1242,15009,4/19/2019 9:00,Arrived at Post Office,Lahore
+1408,1243,15010,4/19/2019 12:00,Waiting For Collection,Lahore
+1408,1244,15009,4/19/2019 22:00,Delivered,Lahore
+1409,1245,15025,4/19/2019 21:00,Collected at Post Office,Karachi
+1409,1246,15027,4/21/2019 10:00,Deprated the Post Office,Karachi
+1409,1247,15029,4/23/2019 16:00,Arrived at Post Office,Hyderabad
+1409,1248,15031,4/24/2019 13:00,Sent Of Delivery,Hyderabad
+1409,1249,15030,4/24/2019 17:00,Delivered,Hyderabad
+1410,1250,15009,5/6/2019 12:00,Collected at Post Office,Lahore
+1410,1251,15011,5/7/2019 12:00,Deprated the Post Office,Lahore
+1410,1252,15001,5/11/2019 14:00,Arrived at Post Office,Rawalpindi
+1410,1253,15003,5/11/2019 19:00,Sent Of Delivery,Rawalpindi
+1410,1254,15002,5/11/2019 21:00,Bounced,Rawalpindi
+1411,1255,15009,5/6/2019 12:00,Collected at Post Office,Lahore
+1411,1256,15011,5/7/2019 14:34,Deprated the Post Office,Lahore
+1411,1257,15001,5/11/2019 16:43,Arrived at Post Office,Rawalpindi
+1411,1258,15003,5/12/2019 19:00,Sent Of Delivery,Rawalpindi
+1411,1259,15002,5/12/2019 21:00,Bounced,Rawalpindi
+1412,1260,15025,6/7/2019 6:00,Collected at Post Office,Karachi
+1412,1261,15027,6/7/2019 9:00,Deprated the Post Office,Karachi
+1412,1262,15029,6/7/2019 20:00,Arrived at Post Office,Hyderabad
+1412,1263,15031,6/7/2019 22:00,Sent Of Delivery,Hyderabad
+1412,1264,15030,6/7/2019 23:59,Delivered,Hyderabad
+1413,1265,15009,6/10/2019 7:30,Collected at Post Office,Lahore
+1413,1266,15011,6/10/2019 10:13,Deprated the Post Office,Lahore
+1413,1267,15045,6/10/2019 21:34,Arrived at Post Office,Mirpur
+1413,1268,15047,6/10/2019 22:00,Sent Of Delivery,Mirpur
+1413,1269,15046,6/10/2019 12:00,Delivered,Mirpur
+1414,1270,15013,5/6/2020 15:00,Collected at Post Office,Peshawar
+1414,1271,15015,5/6/2020 17:00,Deprated the Post Office,Peshawar
+1414,1272,15037,5/6/2020 23:00,Arrived at Post Office,Quetta
+1414,1273,15039,5/6/2020 0:00,Sent Of Delivery,Quetta
+1414,1274,15038,5/6/2020 2:00,Delivered,Quetta
